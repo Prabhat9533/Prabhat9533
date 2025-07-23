@@ -1,0 +1,23 @@
+# 👋 Hi there, I'm Prabhat Ranjan
+
+🎓 Electrical & Electronics Engineer | 🤖 Embedded Systems | 📊 Data Analyst Learner
+
+## 🚀 Projects
+
+### ⚡ Electric Fault Location Detector  
+🔎 A device to detect the location of electrical faults using sensors and microcontrollers.  
+🛠 Tech Used: Arduino, Sensors, Embedded C  
+📁 [View Project](https://github.com/prabhat9533/electric-fault-location-detector)
+
+### 🚗 Obstacle Avoiding Car  
+🤖 An autonomous robot car that detects and avoids obstacles using ultrasonic sensors.  
+🛠 Tech Used: Arduino, Ultrasonic Sensor, Motor Driver Module  
+📁 [View Project](https://github.com/prabhat9533/obstacle-avoiding-car)
+
+## 🛠 Tech Stack
+![Arduino](https://img.shields.io/badge/Arduino-blue?logo=arduino)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c)
+![Sensors](https://img.shields.io/badge/Sensors-Hardware-green)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/Prabhat-ranjan-15867a237)
