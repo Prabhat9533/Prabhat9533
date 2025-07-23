@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Prabhat9533
-- 👀 I’m interested in learning skills
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-
+- Hi 👋 I'm Prabhat Ranjan
+💻 I’m a Data Analyst & Electrical Engineer  
+📊 Skills: Python, Power BI, Excel, SQL  
+📁 Checkout my projects below!  
+🚀 Always learning and building!
+👀 I’m interested in Acquiring new skills
+💞️ I’m looking to collaborate with the organizations to learn hands on experience 
+
+📫 You can reach me at:-
+   Mob-7061985650
+   Email:prabhat14092002@gmail.com
+   linkedin: https://www.linkedin.com/in/prabhat-ranjan-15867a237
+ 
+ ⚡ Fun fact about me : 
 
 <!---
 Prabhat9533/Prabhat9533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
