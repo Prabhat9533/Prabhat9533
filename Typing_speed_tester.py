@@ -4,7 +4,15 @@ import random
 sentences = [
     "The quick brown fox jumps over the lazy dog.",
     "A journey of a thousand miles begins with a single step.",
-    "This is the way for us to reference the object of the class."
+    "This is the way for us to reference the object of the class.",
+    "Python programming is fun and rewarding.",
+    "Typing speed tests can help improve your typing skills.",
+    "Practice makes perfect when it comes to typing fast and accurately.",
+    "The rain in Spain stays mainly in the plain.",
+    "She sells seashells by the seashore.",
+    "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+    "Abdul kalam was a great scientist and former president of India."
+    
 ]
 
 def measure_accuracy(user_input, test_sentence):
@@ -13,6 +21,7 @@ def measure_accuracy(user_input, test_sentence):
     return accuracy
 
 def typing_test():
+    # Select a random sentence for the test
     test_sentence = random.choice(sentences)
     print("Type the following sentence as fast as you can:")
     print(test_sentence)
@@ -31,3 +40,4 @@ def typing_test():
     print(f"Accuracy: {accuracy:.2f}%")
 
 typing_test()
+
