@@ -1,23 +1,18 @@
 # 👋 Hi there, I'm Prabhat Ranjan
 
-🎓 Electrical & Electronics Engineer | 🤖 Embedded Systems | 📊 Data Analyst Learner
+MBA in Information Technology |🎓 Electrical & Electronics Engineer | 🤖 Embedded Systems | 📊 Data Analyst Learner
 
 ## 🚀 Projects
 
-### ⚡ Electric Fault Location Detector  
-🔎 A device to detect the location of electrical faults using sensors and microcontrollers.  
-🛠 Tech Used: Arduino, Sensors, Embedded C  
-📁 [View Project](https://github.com/prabhat9533/electric-fault-location-detector)
+1. Chemical Components Analysis in Healthcare Facilities (link) 
+• Analyzed 2,847 measurements across 15 facilities using Excel to identify trends, correlations, and outliers in 
+  chemical concentrations. 
+• Delivered statistical reports and dashboards with actionable quality improvement recommendations. 
 
-### 🚗 Obstacle Avoiding Car  
-🤖 An autonomous robot car that detects and avoids obstacles using ultrasonic sensors.  
-🛠 Tech Used: Arduino, Ultrasonic Sensor, Motor Driver Module  
-📁 [View Project](https://github.com/prabhat9533/obstacle-avoiding-car)
-
-## 🛠 Tech Stack
-![Arduino](https://img.shields.io/badge/Arduino-blue?logo=arduino)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c)
-![Sensors](https://img.shields.io/badge/Sensors-Hardware-green)
+2. Power BI Performance Dashboard for Facility Monitoring (link) 
+• Built multi-page interactive Power BI dashboard tracking KPIs, compliance trends, and facility rankings for executive 
+  decision-making. 
+• Enabled real-time drill-down analysis across 15 healthcare facilities with custom DAX measures.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/Prabhat-ranjan-15867a237)
